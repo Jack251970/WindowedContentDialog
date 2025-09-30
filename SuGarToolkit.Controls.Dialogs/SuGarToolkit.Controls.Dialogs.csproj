@@ -14,9 +14,13 @@
 		<Nullable>enable</Nullable>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		<Version>2.0.0-dev</Version>
+		<Version>2.0.1</Version>
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
+		<PackageId>Jack251970.SuGarToolkit.Controls.Dialogs</PackageId>
+		<Description>Show ContentDialog in a separate window in WinUI 3</Description>
+		<PackageProjectUrl>https://github.com/Jack251970/WindowedContentDialog</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/Jack251970/WindowedContentDialog</RepositoryUrl>
 	</PropertyGroup>
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
 		<IsTrimmable>True</IsTrimmable>
