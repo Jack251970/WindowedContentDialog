@@ -193,4 +193,4 @@ xmlns:dialogs="using:SuGarToolkit.Controls.Dialogs"
 
 ## Using in your programs
 
-Download nupkg from releases page or https://www.nuget.org/packages/SuGarToolkit.Controls.Dialogs.
+Download nupkg from releases page or https://www.nuget.org/packages/Jack251970.SuGarToolkit.Controls.Dialogs.
